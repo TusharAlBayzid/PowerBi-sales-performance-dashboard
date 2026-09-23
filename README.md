@@ -28,6 +28,14 @@ The goal of this project is to analyze business data to understand total sales, 
 * **DAX** (Data Analysis Expressions)
 
 ## 👨‍💻 Author
+
+**Bayzid Mostak**<br>
+*Data Analyst & Visualization Expert*
+
+*   [LinkedIn] https://www.linkedin.com/in/bayzid-mostak-data-analyst/
+*   [GitHub] https://github.com/TusharAlBayzid
+*   Note: Download the `.pbix` file and open it in Power BI Desktop to experience the fully interactive cross-filtering capabilities of this dashboard.
+## 👨‍💻 Author
 **Bayzid Mostak**  
 Data Analyst  
 *Passionate about data modeling, business intelligence, and uncovering actionable insights from complex datasets.*
